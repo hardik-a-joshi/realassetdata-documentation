@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[787],{4753:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/realassetdata-documentation/blog/tags/hola","allTagsPath":"/realassetdata-documentation/blog/tags","count":1,"unlisted":false}')}}]);
